@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-portfolio3/static/css/main.510a3724.css",
-    "main.js": "/my-portfolio3/static/js/main.558e8cc5.js",
-    "static/media/pexels-rok-romih-4175151.jpg": "/my-portfolio3/static/media/pexels-rok-romih-4175151.4babf398ec32c92fd02f.jpg",
-    "static/media/IMG_0581.JPG": "/my-portfolio3/static/media/IMG_0581.c1c1a4f9c167a6772a8f.JPG",
+    "main.css": "/my-portfolio3/static/css/main.d0fa78c2.css",
+    "main.js": "/my-portfolio3/static/js/main.982eed40.js",
+    "static/media/08-20-21 tyler and kaia  (94).jpg": "/my-portfolio3/static/media/08-20-21 tyler and kaia  (94).5b1d447a33cc6226cde0.jpg",
+    "static/media/IMG_6251.png": "/my-portfolio3/static/media/IMG_6251.1609a43a631e39336113.png",
     "index.html": "/my-portfolio3/index.html",
-    "main.510a3724.css.map": "/my-portfolio3/static/css/main.510a3724.css.map",
-    "main.558e8cc5.js.map": "/my-portfolio3/static/js/main.558e8cc5.js.map"
+    "main.d0fa78c2.css.map": "/my-portfolio3/static/css/main.d0fa78c2.css.map",
+    "main.982eed40.js.map": "/my-portfolio3/static/js/main.982eed40.js.map"
   },
   "entrypoints": [
-    "static/css/main.510a3724.css",
-    "static/js/main.558e8cc5.js"
+    "static/css/main.d0fa78c2.css",
+    "static/js/main.982eed40.js"
   ]
 }
