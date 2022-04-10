@@ -32,7 +32,7 @@ const data = [
 
 const Testimonials = () => {
   return (
-    <section id='testimonials'>
+    <section id='recommendations'>
       <h2>Recommendations</h2>
 
       <Swiper className="container testimonials__container" 
