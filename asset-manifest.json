@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-portfolio3/static/css/main.d0fa78c2.css",
-    "main.js": "/my-portfolio3/static/js/main.06bdada6.js",
+    "main.css": "/my-portfolio3/static/css/main.7c1178d8.css",
+    "main.js": "/my-portfolio3/static/js/main.26f8b983.js",
+    "static/media/number2.png": "/my-portfolio3/static/media/number2.c5dea5098ba529768aee.png",
     "static/media/08-20-21 tyler and kaia  (94).jpg": "/my-portfolio3/static/media/08-20-21 tyler and kaia  (94).5b1d447a33cc6226cde0.jpg",
-    "static/media/IMG_6251.png": "/my-portfolio3/static/media/IMG_6251.1609a43a631e39336113.png",
     "index.html": "/my-portfolio3/index.html",
-    "main.d0fa78c2.css.map": "/my-portfolio3/static/css/main.d0fa78c2.css.map",
-    "main.06bdada6.js.map": "/my-portfolio3/static/js/main.06bdada6.js.map"
+    "main.7c1178d8.css.map": "/my-portfolio3/static/css/main.7c1178d8.css.map",
+    "main.26f8b983.js.map": "/my-portfolio3/static/js/main.26f8b983.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0fa78c2.css",
-    "static/js/main.06bdada6.js"
+    "static/css/main.7c1178d8.css",
+    "static/js/main.26f8b983.js"
   ]
 }
