@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/08-20-21 tyler and kaia  (94).jpg'
+import ME from '../../assets/08-20-21 tyler and kaia  (259).jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-          'Full stack engineer specializing in front-end web development with a creative eye when it comes to design and user interaction. 
+          Full stack engineer specializing in front-end web development with a creative eye when it comes to design and user interaction. 
           <br/>
           <br/>
           I proudly hold titles of husband and dog daddy. When I'm not behind the computer screen I enjoy traveling, hiking, live music, and eating exotic foods. (Or eating any food for that matter) 
