@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio3/static/css/main.a8def212.css",
-    "main.js": "/my-portfolio3/static/js/main.9b14c290.js",
+    "main.css": "/my-portfolio3/static/css/main.a6130f3b.css",
+    "main.js": "/my-portfolio3/static/js/main.38c22f0b.js",
     "static/media/creative.png": "/my-portfolio3/static/media/creative.66b20b52d9f4fb8bd701.png",
     "static/media/number2.png": "/my-portfolio3/static/media/number2.c5dea5098ba529768aee.png",
     "static/media/Katopia.png": "/my-portfolio3/static/media/Katopia.a2ba2ddc8fe6971ee50d.png",
@@ -10,13 +10,15 @@
     "static/media/employee.png": "/my-portfolio3/static/media/employee.3a9679079eea62efc4d9.png",
     "static/media/tech.png": "/my-portfolio3/static/media/tech.0f7a58dccac7f4fe4492.png",
     "static/media/weather.png": "/my-portfolio3/static/media/weather.db75a73482e960a19f4a.png",
+    "static/media/1641592759683.jpeg": "/my-portfolio3/static/media/1641592759683.1324558bd1293a179646.jpeg",
+    "static/media/1648087663967.jpeg": "/my-portfolio3/static/media/1648087663967.deec9297f265af08e880.jpeg",
     "static/media/MyNewestResume2 (1).pdf": "/my-portfolio3/static/media/MyNewestResume2 (1).9995eacfad238e6b9cc8.pdf",
     "index.html": "/my-portfolio3/index.html",
-    "main.a8def212.css.map": "/my-portfolio3/static/css/main.a8def212.css.map",
-    "main.9b14c290.js.map": "/my-portfolio3/static/js/main.9b14c290.js.map"
+    "main.a6130f3b.css.map": "/my-portfolio3/static/css/main.a6130f3b.css.map",
+    "main.38c22f0b.js.map": "/my-portfolio3/static/js/main.38c22f0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8def212.css",
-    "static/js/main.9b14c290.js"
+    "static/css/main.a6130f3b.css",
+    "static/js/main.38c22f0b.js"
   ]
 }
