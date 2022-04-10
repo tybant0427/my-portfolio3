@@ -40,7 +40,13 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos voluptatem eius dolorem maiores nihil ducimus at rem ullam reprehenderit quidem quia deserunt, molestiae, eligendi amet repellat molestias quos totam.
+          'Full stack engineer specializing in front-end web development with a creative eye when it comes to design and user interaction. 
+          <br/>
+          <br/>
+          I proudly hold titles of husband and dog daddy. When I'm not behind the computer screen I enjoy traveling, hiking, live music, and eating exotic foods. (Or eating any food for that matter) 
+          <br/>
+          <br/>
+          As a fresh graduate from the University of Minnesota full stack flex bootcamp, I am currently seeking my first career opportunity and I am eager to find my place in the world of tech.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Chat</a>
