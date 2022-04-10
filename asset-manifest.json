@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-portfolio3/static/css/main.d0fa78c2.css",
-    "main.js": "/my-portfolio3/static/js/main.982eed40.js",
+    "main.js": "/my-portfolio3/static/js/main.06bdada6.js",
     "static/media/08-20-21 tyler and kaia  (94).jpg": "/my-portfolio3/static/media/08-20-21 tyler and kaia  (94).5b1d447a33cc6226cde0.jpg",
     "static/media/IMG_6251.png": "/my-portfolio3/static/media/IMG_6251.1609a43a631e39336113.png",
     "index.html": "/my-portfolio3/index.html",
     "main.d0fa78c2.css.map": "/my-portfolio3/static/css/main.d0fa78c2.css.map",
-    "main.982eed40.js.map": "/my-portfolio3/static/js/main.982eed40.js.map"
+    "main.06bdada6.js.map": "/my-portfolio3/static/js/main.06bdada6.js.map"
   },
   "entrypoints": [
     "static/css/main.d0fa78c2.css",
-    "static/js/main.982eed40.js"
+    "static/js/main.06bdada6.js"
   ]
 }
